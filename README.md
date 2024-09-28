@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🐉 Dragon Battleground 🐉
 
 Welcome to **Dragon Battleground**, an exciting dice-rolling game where players battle fearsome dragons in a quest for glory! Unleash your inner warrior, roll the dice, and see if you have what it takes to defeat the mighty dragon!
